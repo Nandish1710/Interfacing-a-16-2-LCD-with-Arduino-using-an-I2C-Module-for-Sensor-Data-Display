@@ -89,5 +89,5 @@ void loop()
 <img width="1599" height="1053" alt="image" src="https://github.com/user-attachments/assets/0f249975-65b8-4ecd-ba55-f7e76d014b0c" />
 
 
-## Result
+## Result.
 The 16×2 LCD was successfully interfaced with the Arduino UNO R4 WiFi using an I2C module, and text was correctly displayed on the screen.
